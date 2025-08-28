@@ -7,6 +7,14 @@ Tenho atuado no desenvolvimento de **sistemas imobiliários, e-commerce e portai
 
 ## 💼 Projetos em Destaque
 
+### 🔹 [International Experience – Arkus](https://international.kodemasters.com.br/)  
+- Criação de um formulário robusto multi-step com validações adequadas de dados.
+- Listagem e filtro dos registros dos formulário em um painel básico
+- Envio do LEAD para um e-mail definido pelo cliente
+- A versão de produção em https://international.kodemasters.com.br/, por questão de privacidade e segurança do cliente a versão de produção não será compartilhada aqui.  
+
+---
+
 ### 🔹 [Portal do Cliente – UZA](https://portaldocliente.mugicsoftware.com.br/)  
 - Desenvolvimento do front-end da aplicação portal do cliente. Aplicação onde os usuários podem consultar seus pedidos e rastreio.  
 - Feito em NEXT.JS.  
