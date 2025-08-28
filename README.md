@@ -7,7 +7,7 @@ Tenho atuado no desenvolvimento de **sistemas imobiliários, e-commerce e portai
 
 ## 💼 Projetos em Destaque
 
-### 🔹 [Portal do Cliente – UZA]([https://portaldocliente.mugicsoftware.com.br/))  
+### 🔹 [Portal do Cliente – UZA](https://portaldocliente.mugicsoftware.com.br/)  
 - Desenvolvimento do front-end da aplicação portal do cliente. Aplicação onde os usuários podem consultar seus pedidos e rastreio.  
 - Feito em NEXT.JS.  
 
